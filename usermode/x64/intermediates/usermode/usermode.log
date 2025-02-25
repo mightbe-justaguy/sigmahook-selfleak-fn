@@ -1,0 +1,1480 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  blur.cpp
+  gui.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_freetype.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(127,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(127,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(127,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(177,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(178,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(179,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(181,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(182,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(183,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(185,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(186,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(187,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(188,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(189,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(190,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(192,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(193,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(194,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(195,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(197,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(198,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(199,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(200,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(202,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(203,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(204,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\sdk.h(205,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(424,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(425,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(426,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(448,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(449,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(450,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(531,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(531,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(531,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(661,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(662,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(663,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(688,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(689,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(690,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(709,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(710,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(801,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(802,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(803,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(804,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(815,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(877,12): warning C4244: 'initializing': conversion from '__int64' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(885,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1009,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1009,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1009,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1009,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1014,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1015,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1016,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1023,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1051,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1051,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1051,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1051,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1052,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1052,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1052,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1052,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1061,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1062,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1063,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1064,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1065,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1066,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1067,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1068,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1083,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1083,90): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1083,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1083,49): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1083,37): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1084,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1084,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1084,69): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1084,49): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1084,37): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1085,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1085,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1085,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1085,58): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1085,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1087,125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1087,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1087,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1087,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1087,37): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1088,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1088,102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1088,78): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1088,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1088,37): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1089,148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1089,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1089,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1089,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1089,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1092,89): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1092,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1092,48): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1092,36): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1093,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1093,68): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1093,48): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1093,36): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1094,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1094,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1094,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1094,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1096,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1096,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1096,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1096,36): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1097,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1097,77): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1097,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1097,36): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1098,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1098,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1098,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1098,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1159,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1159,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1159,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1159,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1163,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1163,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1168,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1169,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1170,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1171,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1179,54): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1238,52): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1260,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1260,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1264,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1264,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1294,113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1294,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1294,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1294,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1299,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1299,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1299,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1299,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1324,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1325,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1326,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1327,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1331,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1331,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1331,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(1331,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Config.cpp(116,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Config.cpp(128,85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Config.cpp(137,77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(10,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(10,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(10,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(10,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(36,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(36,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(36,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(54,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(56,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(57,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(58,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(59,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(62,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(64,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(65,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(66,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(67,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(91,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(92,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(93,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(94,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(96,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(103,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(104,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(106,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(107,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(109,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(110,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(112,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(113,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(116,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(117,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(119,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(120,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(122,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(123,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(125,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(126,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(160,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(160,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(160,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(160,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(159,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(159,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(159,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(159,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(162,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(162,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(162,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(162,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(161,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(161,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(161,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(161,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(165,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(165,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(165,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(165,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(164,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(164,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(164,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(164,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(167,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(167,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(167,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(167,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(166,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(166,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(166,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(166,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(169,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(169,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(169,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(169,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(168,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(168,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(168,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(168,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(171,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(171,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(171,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(171,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(170,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(170,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(170,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(170,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(178,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(178,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(178,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(178,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(179,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(179,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(179,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(179,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(180,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(180,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(180,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(180,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(181,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(181,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(181,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(181,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(183,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(183,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(183,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(183,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(184,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(184,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(184,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(184,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(185,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(185,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(185,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(185,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(186,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(186,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(186,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(186,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(188,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(188,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(188,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(188,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(189,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(189,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(189,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(189,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(190,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(190,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(190,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(190,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(191,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(191,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(191,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(191,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(194,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(194,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(194,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(194,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(195,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(195,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(195,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(195,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(196,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(196,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(196,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(196,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(197,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(197,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(197,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(197,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(199,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(199,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(199,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(199,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(200,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(200,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(200,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(200,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(201,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(201,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(201,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(201,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(202,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(202,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(202,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(202,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(204,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(204,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(204,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(204,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(205,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(205,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(205,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(205,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(206,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(206,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(206,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(206,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(207,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(207,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(207,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Render.h(207,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(60,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(61,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(65,151): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(65,140): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(65,129): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(65,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(65,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(66,151): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(66,140): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(66,129): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(66,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(66,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(67,151): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(67,140): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(67,129): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(67,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(67,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(68,151): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(68,140): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(68,129): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(68,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(68,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(70,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(70,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(80,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(80,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(107,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(110,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(123,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(153,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(157,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(165,55): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(173,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(175,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(180,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(190,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(191,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(204,54): warning C4244: 'argument': conversion from 'double' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(206,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(206,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(206,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(206,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(206,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(210,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(210,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(210,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(210,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(210,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(211,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(211,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(211,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(211,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(211,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(214,127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(214,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(214,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(214,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(214,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(215,122): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(215,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(215,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(215,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(215,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(233,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(244,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(244,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(267,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(273,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(281,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(281,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(283,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(283,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(298,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(298,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(301,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(301,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(301,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(301,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(303,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(303,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(303,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(305,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(305,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(332,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(350,22): warning C4477: 'sprintf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(354,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(359,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(366,54): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(384,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(403,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(411,18): warning C4129: 'W': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(421,18): warning C4129: 'W': unrecognized character escape sequence
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(465,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(465,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(477,54): warning C4244: 'argument': conversion from 'double' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(488,114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(488,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(488,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(488,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(488,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(493,54): warning C4244: 'argument': conversion from 'double' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(510,54): warning C4244: 'argument': conversion from 'double' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(521,110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(521,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(521,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(521,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(521,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(527,54): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(537,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(562,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(564,54): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(591,54): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\Rendering\Loop.h(608,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(12,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(38,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(46,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(88,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(88,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(92,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(92,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(94,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(94,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(99,60): warning C4244: 'argument': conversion from 'float' to 'uintptr_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(103,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(111,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(123,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(135,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\stuff\aim.h(135,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\admin\Downloads\werwer\usermode\main.cpp(505,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\admin\Downloads\werwer\usermode\main.cpp(506,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(4710,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xutility(4710,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(394,21):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\admin\Downloads\werwer\usermode\Game\Classes.h(394,3):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'UFortItemDefinition::GetItemName'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Generating Code...
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 110 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SonyDriverHelper.lib(StaticLib1.obj) : warning LNK4099: PDB '' was not found with 'SonyDriverHelper.lib(StaticLib1.obj)' or at ''; linking object as if no debug info
+  usermode.vcxproj -> C:\Users\admin\Downloads\werwer\build\usermode\usermode.exe
